@@ -1,1 +1,1 @@
-  live server: admins-dashboard.netlify.app
+  #live server: admins-dashboard.netlify.app
